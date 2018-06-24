@@ -29,8 +29,8 @@ yarn start
 
 ### Output
 
-[a link](http://localhost:3000)
+[http://localhost:3000](http://localhost:3000)
 
 ### Live Demo
 
-[a link](https://meme-generator2018.herokuapp.com/)
+[https://meme-generator2018.herokuapp.com](https://meme-generator2018.herokuapp.com)
