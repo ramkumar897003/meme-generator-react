@@ -33,5 +33,4 @@ yarn start
 
 ### Live Demo
 
-<a href="https://meme-generator2018.herokuapp.com" target="_Blank">Live Demo</a>
-
+[Live Demo](https://meme-generator2018.herokuapp.com)
